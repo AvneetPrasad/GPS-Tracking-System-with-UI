@@ -1,0 +1,9 @@
+C:\Users\avnee\Documents\Uni\2020\Sem1\Embedded Systems\ENEL712 Mini Project\ENEL712 Mini Project\bin\Debug\ENEL712 Mini Project.exe.config
+C:\Users\avnee\Documents\Uni\2020\Sem1\Embedded Systems\ENEL712 Mini Project\ENEL712 Mini Project\bin\Debug\ENEL712 Mini Project.exe
+C:\Users\avnee\Documents\Uni\2020\Sem1\Embedded Systems\ENEL712 Mini Project\ENEL712 Mini Project\bin\Debug\ENEL712 Mini Project.pdb
+C:\Users\avnee\Documents\Uni\2020\Sem1\Embedded Systems\ENEL712 Mini Project\ENEL712 Mini Project\obj\Debug\ENEL712 Mini Project.csproj.GenerateResource.cache
+C:\Users\avnee\Documents\Uni\2020\Sem1\Embedded Systems\ENEL712 Mini Project\ENEL712 Mini Project\obj\Debug\ENEL712 Mini Project.csproj.CoreCompileInputs.cache
+C:\Users\avnee\Documents\Uni\2020\Sem1\Embedded Systems\ENEL712 Mini Project\ENEL712 Mini Project\obj\Debug\ENEL712 Mini Project.exe
+C:\Users\avnee\Documents\Uni\2020\Sem1\Embedded Systems\ENEL712 Mini Project\ENEL712 Mini Project\obj\Debug\ENEL712 Mini Project.pdb
+C:\Users\avnee\Documents\Uni\2020\Sem1\Embedded Systems\ENEL712 Mini Project\ENEL712 Mini Project\obj\Debug\ENEL712 Mini Project.csprojAssemblyReference.cache
+C:\Users\avnee\Documents\Uni\2020\Sem1\Embedded Systems\ENEL712 Mini Project\ENEL712 Mini Project\obj\Debug\ENEL712_Mini_Project.Updates.resources
